@@ -16,7 +16,7 @@ The dataset consists of three main components:
 
 1. **Self-maintained Collection**: 2,000 hours of audio data, collected and maintained by our team. This forms the core of the dataset and represents a wide range of Israeli Levantine Arabic speech.
 
-2. **Multi-Genre Broadcast ([MGB-2](https://huggingface.co/datasets/BelalElhossany/mgb2_audios_transcriptions_preprocessed)Filtered**: 200 hours of audio data sourced from the MGB-2 corpus, which includes broadcast news and other media content in Arabic.
+2. **Multi-Genre Broadcast [(MGB-2)](https://huggingface.co/datasets/BelalElhossany/mgb2_audios_transcriptions_preprocessed)-Filtered**: 200 hours of audio data sourced from the MGB-2 corpus, which includes broadcast news and other media content in Arabic.
 
 3. **[CommonVoice18](https://huggingface.co/datasets/fsicoli/common_voice_18_0) (Filtered)**: An additional portion of data from the CommonVoice18 dataset.
    ##### Both MGB-2 and commonvoice18 filtered using [AlcLaM](https://arxiv.org/abs/2407.13097) (Arabic Language Model), ensuring relevance to Levantine Arabic.
