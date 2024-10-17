@@ -20,7 +20,7 @@ The dataset consists of three main components:
 2. **Multi-Genre Broadcast (MGB-2)Filtered**: 200 hours of audio data sourced from the MGB-2 corpus, which includes broadcast news and other media content in Arabic.
 
 3. **CommonVoice18 (Filtered)**: An additional portion of data from the CommonVoice18 dataset.
-   Both MGB-2 and commonvoice18 filtered using [AlcLaM](https://arxiv.org/abs/2407.13097) (Arabic Language Model), ensuring relevance to Levantine Arabic.
+   ### Both MGB-2 and commonvoice18 filtered using [AlcLaM](https://arxiv.org/abs/2407.13097) (Arabic Language Model), ensuring relevance to Levantine Arabic.
 
 - **Total Duration**: Approximately 2,200 hours of transcribed audio
 - **Dialects**: Primarily Israeli Levantine Arabic, with some general Levantine Arabic content
