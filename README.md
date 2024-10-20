@@ -6,7 +6,7 @@ This repository contains a fine-tuned version of the Whisper medium model, speci
 ## Model Details
 - **Base Model**: [Whisper Medium](https://github.com/openai/whisper)
 - **Fine-tuned for**: Levantine Arabic (Israeli Dialect)
-- **Performance Metrics**: [Provide key metrics, e.g., Word Error Rate (WER), on your test set]
+- **Performance Metrics**: [10% WER on test-set]
 
 ## Dataset Description
 This dataset contains transcribed audio data of spoken Levantine Arabic, with a focus on the Israeli dialect. It is designed to support research and development in speech recognition, linguistic analysis, and natural language processing for Levantine Arabic. The dataset comprises human-transcribed and annotated audio recordings, making it a valuable resource for training and evaluating speech recognition models and conducting linguistic studies.
