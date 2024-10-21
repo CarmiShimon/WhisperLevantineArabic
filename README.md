@@ -28,7 +28,7 @@ The dataset consists of three main components:
 - **Sampling Rate**: 16kHz
 
 ## Usage
-[Provide instructions on how to use the model, including code snippets if possible]
+The model was trained on 16kHz sample rate, make sure your inference audio files are at the same sampling frequency
 
 ```python
 # Example code for using the model
