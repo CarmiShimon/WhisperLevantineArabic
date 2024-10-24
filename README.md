@@ -30,10 +30,12 @@ The dataset consists of three main components:
 ## Usage
 The model was trained using a 16kHz sample rate, so ensure your audio files are also at 16kHz for optimal performance.
 
-```python
 # Run app.py
 In the main function, change the current working directory to where the model is located.
-From the terminal: streamlit app.py
+From the terminal: 
+```python
+streamlit app.py
+'''
 
 ```python
 # Example code for using the model
