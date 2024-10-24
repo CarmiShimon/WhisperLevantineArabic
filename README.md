@@ -62,8 +62,8 @@ def transcribe_audio(files_dir_path):
 
 
 if __name__ == '__main__':
-    wav_dir_path = '/home/user/Desktop/arb_stt/test/'
-    checkpoint_path = '/home/user/Desktop/arb_stt/best_models/medium/checkpoint-3300'
+    wav_dir_path = '/path to wav files'
+    checkpoint_path = 'your model path'
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # Initialize model and processor
