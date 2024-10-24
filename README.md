@@ -35,7 +35,7 @@ In the main function, change the current working directory to where the model is
 From the terminal: 
 ```python
 streamlit app.py
-'''
+'''python
 
 ```python
 # Example code for using the model
