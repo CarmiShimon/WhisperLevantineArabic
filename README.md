@@ -22,6 +22,7 @@ The dataset consists of three main components:
    ##### Both MGB-2 and commonvoice18 filtered using [AlcLaM](https://arxiv.org/abs/2407.13097) (Arabic Language Model), ensuring relevance to Levantine Arabic.
 
 - **Total Duration**: Approximately 2,200 hours of transcribed audio
+- **Train/Eval/Test**: 97%, 1.5%, 1.5%
 - **Dialects**: Primarily Israeli Levantine Arabic, with some general Levantine Arabic content
 - **Annotation**: Human-transcribed and annotated for high accuracy
 - **Diverse Sources**: Includes self-collected data, broadcast media, and crowd-sourced content
